@@ -1,0 +1,1 @@
+Developed a Weather App using HTML, CSS, and JavaScript, integrating a weather API to fetch real-time data. The app provides users with current weather conditions, including temperature, humidity, and forecasts, with a clean and responsive user interface
